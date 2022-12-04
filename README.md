@@ -1,5 +1,5 @@
 # 💫 About Me:
-Seja bem-vindo ao meu GitHub!<br><br>Sou desenvolvedora Front-end com experiências de nível básico em desenvolvimento de aplicações web. <br>Meus principais conhecimentos são: Lógica de programação, HTML5, CSS, JavaScript(ES6).<br>Trabalho com as ferramentas Visual Studio Code, Git e GitHub.<br><br>Estou em busca da minha primeira oportunidade como Desenvolvedora Front-end.
+Seja bem-vindo ao meu GitHub!<br><br>Sou desenvolvedora Front-end com experiências de nível básico em desenvolvimento de aplicações web. <br>Trabalho com as ferramentas Visual Studio Code, Git e GitHub.<br><br>Estou em busca da minha primeira oportunidade como Desenvolvedora Front-end.
 
 
 ## 🌐 Socials:
