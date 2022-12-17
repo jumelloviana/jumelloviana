@@ -1,5 +1,5 @@
 # 💫 About Me:
-Seja bem-vindo ao meu GitHub!<br><br>Sou desenvolvedora Front-end com experiências de nível básico em desenvolvimento de aplicações web.
+Seja bem-vindo ao meu GitHub!<br><br>Sou desenvolvedora Front-end com experiências em desenvolvimento de aplicações web.
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jumelloviana) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jumelloviana) 
 
