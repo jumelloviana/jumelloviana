@@ -11,8 +11,6 @@ I'm a Front-end developer, I have experience in web application development.<br>
 
 ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jumelloviana&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![](https://github-readme-stats.vercel.app/api?username=jumelloviana&theme=radical&hide_border=false&include_all_commits=false&count_private=false) 
-
 
 
 ---
