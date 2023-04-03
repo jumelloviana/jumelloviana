@@ -1,6 +1,5 @@
 ## Bem-vindo(a) ao meu GitHub! 
 
-Sou Desenvolvedora Front-end, possuo experências em desenvolvimento web adquiridas através da criação de projetos pessoas e de estudos.
 
  <div>
    <a href="https://github.com/jumelloviana">
