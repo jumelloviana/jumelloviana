@@ -1,7 +1,5 @@
 ## Bem-vindo(a) ao meu GitHub! 
 
-Sou Desenvolvedora Front-end, estou em constante aprendizado e busco oportunidade de crescimento profissional em uma empresa de tecnologia, onde eu possa compartilhar e colocar em prática minhas habilidades, adquirir novas experiências. Meu principal objetivo é trabalhar em uma empresa comprometida em fazer a diferença na vida das pessoas através da tecnologia, e da inovação. 
-
 
  <div>
    <a href="https://github.com/jumelloviana">
